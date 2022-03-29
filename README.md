@@ -1,5 +1,5 @@
 # e_commerce
-** Online market application using Flask | Python **
+**Online market application using Flask | Python**
 
 * Used SQLAlchemy toolkit for database
 * Used bootstrap for front-end 
