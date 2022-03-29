@@ -1,4 +1,4 @@
-# e_commerce
+# e_commerce market
 **Online market application using Flask | Python**
 
 * Used SQLAlchemy toolkit for database
